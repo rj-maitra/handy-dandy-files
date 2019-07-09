@@ -18,7 +18,7 @@
 * `git commit -m "text"` again to tag the latest changed files with a comment
 * `git log` to see the information
 
-### Go to GitHub.com to set up a new repository on *GITHUB*.
+### Go to GitHub.com to set up a new repository on **GITHUB**.
 * After making the repo, you are presented with two sets of commands:
   * Create a new repository
   * Push to an existing repository
