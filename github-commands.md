@@ -1,5 +1,3 @@
-Here are the instructions you need to get up and running as written by a beginner coder.
-
 # Pushing code from your computer to GitHub
 
 ### Setting up Git 
