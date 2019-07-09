@@ -1,5 +1,3 @@
-I found instructions online to be overly-complex.  Here are the basic instructions you need to follow to push a project to GitHub.
-
 # Pushing code from your computer to GitHub
 
 ### Setting up Git 
