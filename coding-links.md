@@ -44,6 +44,8 @@ Coding Dojo Skills List: [Link](https://docs.google.com/document/d/1Bu_tdZbIXe9B
 
 Vector Icons (SVG) for technologies on your portfolio: [Link](https://konpa.github.io/devicon/)
 
+Using GitHub Pages to host your portfolio: [Link](https://startbootstrap.com/guides/how-to-create-a-website-with-github-pages/)
+
 ## Uncategorized
 
 Hacking in Python: [Link](https://codingdojomarchcohort.slack.com/archives/CH440MVHB/p1561742099003400)
