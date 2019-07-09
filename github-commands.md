@@ -8,7 +8,7 @@
   * `git config --global user.email <your GitHub email address>` (no quotes or angle brackets)
   * Verify with `git config --global --list`
   
-### When you `git init` in your terminal, you are creating a repository on **YOUR** computer.  These are the steps you would follow after making a project and `cd`'ing into the **project** folder
+### When you `git init` in your terminal, you are creating a repository on **YOUR** computer.  These are the steps you would follow after making a project and `cd`'ing into the **project** folder.
 * `git status` will show the files that have not been added to staging
 * `git add .` will add all the files in the current folder/directory (i.e. your project folder) to staging
 * `git commit -m "text"` will tag the "text" to the files as a comment
