@@ -4,8 +4,8 @@
 * http://git-scm.com/book/en/v2/Getting-Started-Installing-Git
   * Follow the commands for your computer
 * Setting up your username and email address:
-  * `git config --global user.name "<your first and last name>"` (include the quotes!)
-  * `git config --global user.email <your GitHub email address>` (no quotes)
+  * `git config --global user.name "<your first and last name>"` (include the quotes, and no angle brackets!)
+  * `git config --global user.email <your GitHub email address>` (no quotes or angle brackets)
   * Verify with `git config --global --list`
   
 ### When you `git init` in your terminal, you are creating a repository on **YOUR** computer.  These are the steps you would follow after making a project and `cd`'ing into the **project** folder
@@ -23,5 +23,5 @@
   * Create a new repository
   * Push to an existing repository
 * If you have already made something on your computer, it is an **EXISTING** repository, and you will:
-  * `git remote add origin <url>` (link from the page on github)
+  * `git remote add origin <url>` (link from the page on github, no angle brackets of course)
   * `git push -u origin master` (pushes the master branch and makes it the origin)
