@@ -36,7 +36,7 @@ Free wireframing tool from Adobe: [Link](https://www.adobe.com/products/xd.html?
 
 ## Resume/Portfolio
 
-Amazing advice on building a resume: [Link](https://zety.com/blog/programmer-resume-example)
+Amazing advice on building a programming resume: [Link](https://zety.com/blog/programmer-resume-example)
 
 Create links to GitHub projects without the need for a server: [Link](https://pages.github.com/)
 
