@@ -1,3 +1,5 @@
+I found instructions on the internet to be overly-complex and cause me to run into endless issues.  Here are the instructions you need to get up and running:
+
 # Pushing code from your computer to GitHub
 
 ### Setting up Git 
