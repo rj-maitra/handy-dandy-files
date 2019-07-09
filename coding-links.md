@@ -56,6 +56,6 @@ Mastering Markdown: [Link](https://guides.github.com/features/mastering-markdown
 
 Markdown CheatSheet: [Link](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
 
-Installing Powerline (use both links if you run into issues on one): [Link](https://medium.com/@Clovis_app/configuration-of-a-beautiful-efficient-terminal-and-prompt-on-osx-in-7-minutes-827c29391961) / [Link](https://medium.com/@ITZDERR/how-to-install-powerline-to-pimp-your-bash-prompt-for-mac-9b82b03b1c02)
+Installing Powerline (use both links if you run into issues on the first one): [Link](https://medium.com/@Clovis_app/configuration-of-a-beautiful-efficient-terminal-and-prompt-on-osx-in-7-minutes-827c29391961) / [Link](https://medium.com/@ITZDERR/how-to-install-powerline-to-pimp-your-bash-prompt-for-mac-9b82b03b1c02)
 * `touch .hushlogin` in your root folder to silence the ttys login line at the top of your terminal
 * Install Powerline fonts to fill in the missing symbols
