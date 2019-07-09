@@ -1,4 +1,4 @@
-A collection of useful links I've assembled in my journey into coding:
+A collection of useful links for those beginning to code:
 
 ## Fonts
 
