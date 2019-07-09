@@ -4,8 +4,8 @@
 * http://git-scm.com/book/en/v2/Getting-Started-Installing-Git
   * Follow the commands for your computer
 * Setting up your username and email address:
-  * `git config --global user.name "Ranjan Maitra"`
-  * `git config --global user.email rj.maitra@gmail.com`
+  * `git config --global user.name "<your first and last name>"`
+  * `git config --global user.email <your GitHub email address>`
   * Verify with `git config --global --list`
   
 ### When you `git init` in your terminal, you are creating a repository on **YOUR** computer.  These are the steps you would follow after making a project and `cd`'ing into the **project** folder
