@@ -1,5 +1,7 @@
 # Pushing code from your computer to GitHub
 
+I've parsed the internet and put together these simple instructions to get you up and running.
+
 ### Setting up Git 
 * http://git-scm.com/book/en/v2/Getting-Started-Installing-Git
   * Follow the commands for your computer
