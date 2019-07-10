@@ -19,7 +19,7 @@ I've parsed the internet and put together these simple instructions to get you u
   * `git commit -m "text"` again to tag the latest changed files with a comment
   * `git log` to see the "paper trail"
 
-### Go to GitHub.com and set up a new repository on GitHub.
+### Go to GitHub.com and set up a new repository ON GitHub.
 * After making the repo, you are presented with two sets of commands:
   * Create a new repository
   * Push to an existing repository
