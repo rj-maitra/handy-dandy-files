@@ -24,5 +24,5 @@ I've parsed the internet and put together these simple instructions to get you u
   * Create a new repository
   * Push to an existing repository
 * If you have already made something on your computer, it is an **EXISTING** repository, and you will:
-  * `git remote add origin <url>` (link from the page on github, no angle brackets)
+  * `git remote add origin <url>` (link from the page on GitHub, no angle brackets)
   * `git push -u origin master` (pushes the master branch and makes it the origin)
