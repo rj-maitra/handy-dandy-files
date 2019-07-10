@@ -17,7 +17,7 @@ I've parsed the internet and put together these simple instructions to get you u
   * Type in `git diff` to find differences in the actual files you modified
   * `git add .` will add all the changed files to the staging area
   * `git commit -m "text"` again to tag the latest changed files with a comment
-  * `git log` to see the information
+  * `git log` to see the "paper trail."
 
 ### Go to GitHub.com to set up a new repository on **GITHUB**.
 * After making the repo, you are presented with two sets of commands:
