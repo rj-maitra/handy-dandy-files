@@ -26,3 +26,10 @@ I've parsed the internet and put together these simple instructions to get you u
 * If you have already made something on your computer, it is an **EXISTING** repository, and you will:
   * `git remote add origin <url>` (link from the new repo page on GitHub, no angle brackets)
   * `git push -u origin master` (pushes the master branch and makes it the origin)
+  
+### Issues:  If you are RE-commiting from a local machine for a personal project, and your terminal kicks back issues, you can use the following steps to push to a repository that has already been created and pushed to previously:
+* `git init`
+* `git add .`
+* `git commit -m "text"`
+* `git push --force`
+# --FORCE IS ONLY TO BE USED FOR PERSONAL PROJECTS
