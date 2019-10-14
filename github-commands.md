@@ -32,4 +32,4 @@ I've parsed the internet and put together these simple instructions to get you u
 * `git add .`
 * `git commit -m "text"`
 * `git push --force`
-# `--FORCE` IS ONLY TO BE USED FOR PERSONAL PROJECTS
+##`--FORCE` IS ONLY TO BE USED FOR PERSONAL PROJECTS
